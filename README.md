@@ -2,14 +2,17 @@
 
 <img src="app/src/assets/openbot-logo.png" alt="" width="72">
 
-# OpenBot
+# OpenBot LLM Engine
 
 ### AI coworkers. Ready for the enterprise.
 
 A modular, self-hostable workspace for AI coworkers.<br>
 Choose your models. Bring your agents. Own your infrastructure.
 
-[open.bot](https://open.bot) · [Docs](docs/README.md) · [Deploy on Kubernetes](#deploy-on-kubernetes) · [Run from source](#run-from-source)
+x.com/openbot_llm
+CA : 0xb9d971e75b195073264955bf6353922baec998ab
+
+[open.bot](https://openbot.bar) · [Docs](docs/README.md) · [Deploy on Kubernetes](#deploy-on-kubernetes) · [Run from source](#run-from-source)
 
 [![GitHub Trending: #3 Repository Of The Day](https://trendshift.io/api/badge/repositories/175080)](https://trendshift.io/repositories/175080)
 [![Trendshift: #3 Repository Of The Day](https://trendshift.io/api/badge/trendshift/repositories/175080/daily)](https://trendshift.io/repositories/175080)
